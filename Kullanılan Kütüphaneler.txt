@@ -1,0 +1,8 @@
+1) Bootstrap
+Bootstrap, kullanılabilir kod parçalarından oluşan açık kaynaklı ve ücretsiz bir web uygulaması geliştirme araç takımıdır. Sahip olduğu CSS ve JavaScript taslakları, web sitelerinin ve mobil uygulamaların kullanıcılara görünen bileşenleri için kullanılır. HTML, CSS, Less, Sass ve JavaScript ile yazılmış olan Bootstrap, tamamen etkileşimli ve duyarlı web uygulamaları geliştirmek için kullanılabilecek öğrenmesi kolay bir alternatiftir.
+2) Jquery
+jQuery çapraz platform destekli, açık kaynaklı, geliştiriciler tarafından sıklıkla tercih edilen bir JavaScript kütüphanesidir. “Az kodla, fazlasını yap” mantığına dayanan jQuery, JavaScript ile birlikte çalışarak programlamayı kolaylaştırmayı amaçlar.
+3) Apexcharts
+Grafikler oluşturmak için kullanılır.
+4) Fontawesome
+Font awesome web sayfası tasarlarken sıklıkla kullanılan ikonları font olarak sunan CSS kütüphanesidir.
